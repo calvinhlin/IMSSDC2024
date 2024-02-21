@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "parts")(type "KiCad")(uri "C:/Users/linca/Desktop/SuPEr Lab/pcbparts/parts.kicad_sym")(options "")(descr ""))
   (lib (name "LT1719CS8TR")(type "KiCad")(uri "C:/Users/linca/Desktop/SuPEr Lab/PCBparts/LT1718CS8TR/LT1719CS8TR.kicad_sym")(options "")(descr ""))
+  (lib (name "GS61004B-MR")(type "KiCad")(uri "C:/Users/linca/Desktop/SuPEr Lab/PCBparts/Symbols/GS61004B-MR.kicad_sym")(options "")(descr ""))
 )
