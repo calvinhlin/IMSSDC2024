@@ -1,0 +1,28 @@
+Circuit: * C:\Users\linca\Desktop\SuPEr Lab\IMSSDC2024\SPICE\phi_2\phi_2_50MHz.asc
+
+WARNING: Less than two connections to node N002.  This node is used by R1.
+Direct Newton iteration for .op point succeeded.
+
+pin: AVG(i(l1)*v(12v))=12.6833 FROM 0 TO 8e-008
+pout: AVG(i(rl)*v(out))=11.3744 FROM 0 TO 8e-008
+pg: AVG(-v(g1)*i(v1))=0.891334 FROM 0 TO 8e-008
+efficiency: pout/(pin+pg)=0.837921
+
+
+Date: Thu Feb 22 18:06:31 2024
+Total elapsed time: 3.069 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 339560
+traniter = 339556
+tranpoints = 135242
+accept = 97337
+rejected = 37905
+matrix size = 40
+fillins = 26
+solver = Normal
+Matrix Compiler1: 3.27 KB object code size  0.6/0.4/[0.2]
+Matrix Compiler2: 3.33 KB object code size  0.3/0.4/[0.2]
+
