@@ -1,0 +1,30 @@
+Circuit: * C:\Users\linca\Desktop\SuPEr Lab\IMSSDC2024\SPICE\phi_2\phi_2_50MHz_GS61004B.asc
+
+WARNING: Node N001 is floating.
+
+WARNING: Less than two connections to node N001.  This node is used by I1.
+Direct Newton iteration for .op point succeeded.
+
+pin: AVG(i(l1)*v(12v))=13.2052 FROM 0 TO 8e-008
+pout: AVG(i(rl)*v(out))=11.7686 FROM 0 TO 8e-008
+pg: AVG(-v(g1)*i(v1))=0.832551 FROM 0 TO 8e-008
+efficiency: pout/(pin+pg)=0.838349
+
+
+Date: Fri Feb 23 15:05:52 2024
+Total elapsed time: 9.856 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 959406
+traniter = 959402
+tranpoints = 436045
+accept = 299129
+rejected = 136916
+matrix size = 38
+fillins = 26
+solver = Normal
+Matrix Compiler1: 3.19 KB object code size  0.5/0.4/[0.2]
+Matrix Compiler2: 3.21 KB object code size  0.2/0.4/[0.2]
+
