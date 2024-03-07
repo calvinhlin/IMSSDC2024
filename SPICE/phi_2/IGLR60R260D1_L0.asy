@@ -1,0 +1,22 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -144 -40 160 40
+WINDOW 0 8 -40 Bottom 2
+WINDOW 3 8 40 Top 2
+WINDOW 39 8 64 Top 2
+SYMATTR Prefix X
+SYMATTR Value IGLR60R260D1_L0
+SYMATTR ModelFile C:\Users\linca\Desktop\SuPEr Lab\IMSSDC2024\SPICE\phi_2\IFX_CoolGaN_Gen1_600V.lib
+SYMATTR SpiceLine dgfs=0 Ls=3.55E-10 Ld=6.62E-10 Lg=1.48E-09
+PIN -144 -16 LEFT 8
+PINATTR PinName drain
+PINATTR SpiceOrder 1
+PIN -144 16 LEFT 8
+PINATTR PinName gate
+PINATTR SpiceOrder 2
+PIN 160 -16 RIGHT 8
+PINATTR PinName source
+PINATTR SpiceOrder 3
+PIN 160 16 RIGHT 8
+PINATTR PinName source_sense
+PINATTR SpiceOrder 4

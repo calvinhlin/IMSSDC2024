@@ -1,0 +1,31 @@
+Circuit: * C:\Users\linca\Desktop\SuPEr Lab\IMSSDC2024\SPICE\phi_2\phi_2_50MHz_IGLR60R260D1.asc
+
+WARNING: Node N001 is floating.
+
+WARNING: Less than two connections to node TC.  This node is used by R2.
+WARNING: Less than two connections to node N001.  This node is used by I1.
+Direct Newton iteration for .op point succeeded.
+
+pin: AVG(i(l1)*v(12v))=15.7946 FROM 0 TO 8e-008
+pout: AVG(i(rl)*v(out))=10.7456 FROM 0 TO 8e-008
+pg: AVG(-v(g1)*i(v1))=0.947079 FROM 0 TO 8e-008
+efficiency: pout/(pin+pg)=0.641844
+
+
+Date: Mon Mar 04 12:08:55 2024
+Total elapsed time: 19.650 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 793480
+traniter = 793461
+tranpoints = 193634
+accept = 138416
+rejected = 55218
+matrix size = 51
+fillins = 45
+solver = Normal
+Matrix Compiler1: 4.68 KB object code size  1.0/0.5/[0.3]
+Matrix Compiler2: 4.91 KB object code size  0.5/0.6/[0.3]
+
