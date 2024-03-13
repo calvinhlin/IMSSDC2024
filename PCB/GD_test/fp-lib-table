@@ -2,6 +2,6 @@
   (version 7)
   (lib (name "LT1718CS8TR")(type "KiCad")(uri "C:/Users/linca/Desktop/SuPEr Lab/PCBparts/LT1718CS8TR")(options "")(descr ""))
   (lib (name "pcbparts")(type "KiCad")(uri "C:/Users/linca/Desktop/SuPEr Lab/PCBparts/pcbparts.pretty")(options "")(descr ""))
-  (lib (name "EPCGaN")(type "KiCad")(uri "C:/Users/linca/Desktop/SuPEr Lab/PCBparts/GaN.pretty")(options "")(descr ""))
+  (lib (name "EPCGaN")(type "KiCad")(uri "C:/Users/linca/Desktop/SUPER Lab/pcbparts/GaN.pretty")(options "")(descr ""))
   (lib (name "GateDriver")(type "KiCad")(uri "C:/Users/linca/Desktop/SuPEr Lab/pcbparts/GateDriver.pretty")(options "")(descr ""))
 )
