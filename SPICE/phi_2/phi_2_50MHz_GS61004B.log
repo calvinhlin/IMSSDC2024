@@ -1,30 +1,20 @@
-Circuit: * C:\Users\linca\Desktop\SuPEr Lab\IMSSDC2024\SPICE\phi_2\phi_2_50MHz_GS61004B.asc
-
-WARNING: Node N001 is floating.
-
-WARNING: Less than two connections to node N001.  This node is used by I1.
-Direct Newton iteration for .op point succeeded.
-
-pin: AVG(i(l1)*v(12v))=11.857 FROM 0 TO 8e-008
-pout: AVG(i(rl)*v(out))=10.6196 FROM 0 TO 8e-008
-pg: AVG(-v(g1)*i(v1))=0.841258 FROM 0 TO 8e-008
-efficiency: pout/(pin+pg)=0.836303
-
-
-Date: Wed Mar 06 17:15:06 2024
-Total elapsed time: 10.709 seconds.
-
+LTspice 24.0.9 for Windows
+Circuit: * C:\Users\linca\Desktop\SUPER Lab\IMSSDC2024\SPICE\phi_2\phi_2_50MHz_GS61004B.asc
+Start Time: Tue Apr  2 10:28:18 2024
+solver = Normal
+Maximum thread count: 16
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 1095566
-traniter = 1095562
-tranpoints = 503297
-accept = 354396
-rejected = 148901
-matrix size = 38
-fillins = 26
-solver = Normal
-Matrix Compiler1: 3.19 KB object code size  0.6/0.4/[0.2]
-Matrix Compiler2: 3.21 KB object code size  0.2/0.4/[0.2]
+WARNING: Node N001 is floating.
+
+WARNING: Less than two connections to node n001.  This node is used by i1.
+Direct Newton iteration for .op point succeeded.
+
+pin: AVG(i(l1)*v(12v))=11.8441 FROM 0 TO 8e-08
+pout: AVG(i(rl)*v(out))=10.6056 FROM 0 TO 8e-08
+pg: AVG(-v(g1)*i(v1))=0.841447 FROM 0 TO 8e-08
+efficiency: pout/(pin+pg)=0.836039
+
+Total elapsed time: 3.326 seconds.
 
