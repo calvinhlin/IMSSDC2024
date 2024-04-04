@@ -2825,6 +2825,12 @@
 		(uuid "b45408ce-de1b-475b-b6db-b6763f907469")
 	)
 	(junction
+		(at 162.56 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b891de7d-37cd-43a7-9c0c-1ebbf46ac771")
+	)
+	(junction
 		(at 110.49 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3895,6 +3901,16 @@
 			(type default)
 		)
 		(uuid "6d79bfd9-710f-408b-ac2d-1724ab0db3f3")
+	)
+	(wire
+		(pts
+			(xy 162.56 73.66) (xy 162.56 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6dd834b3-78de-4e5a-8366-489d729f8ead")
 	)
 	(wire
 		(pts
@@ -5287,17 +5303,6 @@
 			(justify left bottom)
 		)
 		(uuid "3bf885a1-816a-46fb-a85c-4eea68f4144b")
-	)
-	(label "5V"
-		(at 162.56 74.93 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "45175f5f-396d-41b3-83e2-8b8409f71968")
 	)
 	(label "RF_IN"
 		(at 203.2 139.7 180)
@@ -6759,8 +6764,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 130.81 120.65 0)
+		(property "Value" "C"
+			(at 137.668 121.158 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7571,6 +7576,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 162.56 73.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5383ff60-8d22-4954-b45c-b0105af649c8")
+		(property "Reference" "#PWR06"
+			(at 162.56 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 160.02 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 162.56 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2c15229c-1a88-4cb3-ac11-00b9aef96a73")
+		)
+		(instances
+			(project "phi2_50MHz_EPC2214"
+				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 124.46 33.02 0)
 		(unit 1)
@@ -7779,7 +7850,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "574ea667-e482-40f4-9f8b-0cb72d7a6bfd")
 		(property "Reference" "Q2"
 			(at 231.902 81.4649 0)
@@ -7791,7 +7861,7 @@
 			)
 		)
 		(property "Value" "GS61004B-MR"
-			(at 231.902 83.8891 0)
+			(at 227.584 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8807,8 +8877,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 130.81 151.13 0)
+		(property "Value" "C"
+			(at 137.922 151.892 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9217,8 +9287,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 130.81 135.89 0)
+		(property "Value" "C"
+			(at 137.922 136.398 0)
 			(effects
 				(font
 					(size 1.27 1.27)
