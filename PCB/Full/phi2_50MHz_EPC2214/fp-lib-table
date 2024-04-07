@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Coilcraft")(type "KiCad")(uri "C:/Users/linca/Desktop/SUPER Lab/pcbparts/Coilcraft.pretty")(options "")(descr ""))
+  (lib (name "pcbparts")(type "KiCad")(uri "C:/Users/linca/Desktop/SUPER Lab/pcbparts/pcbparts.pretty")(options "")(descr ""))
+  (lib (name "GaN")(type "KiCad")(uri "C:/Users/linca/Desktop/SUPER Lab/pcbparts/GaN.pretty")(options "")(descr ""))
+)
