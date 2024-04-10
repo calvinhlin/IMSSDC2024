@@ -4,4 +4,5 @@
   (lib (name "pcbparts")(type "KiCad")(uri "C:/Users/linca/Desktop/SUPER Lab/pcbparts/pcbparts.pretty")(options "")(descr ""))
   (lib (name "GaN")(type "KiCad")(uri "C:/Users/linca/Desktop/SUPER Lab/pcbparts/GaN.pretty")(options "")(descr ""))
   (lib (name "Diodes")(type "KiCad")(uri "C:/Users/linca/Desktop/SUPER Lab/pcbparts/Diodes.pretty")(options "")(descr ""))
+  (lib (name "Logo")(type "KiCad")(uri "C:/Users/linca/Desktop/SUPER Lab/pcbparts/Logo.pretty")(options "")(descr ""))
 )
