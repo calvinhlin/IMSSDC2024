@@ -4921,9 +4921,9 @@
 		)
 		(uuid "3ac1c8cf-1def-49a9-b2ac-cd8b0ecf9c67")
 	)
-	(text "Gate Driver"
+	(text "Digital resonant gate driver"
 		(exclude_from_sim no)
-		(at 38.354 110.236 0)
+		(at 61.722 110.744 0)
 		(effects
 			(font
 				(size 3.81 3.81)
@@ -5926,7 +5926,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RB886GT2R"
+		(property "Value" "SMS3922"
 			(at 156.21 159.004 0)
 			(effects
 				(font
@@ -6505,7 +6505,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RB886GT2R"
+		(property "Value" "SMS3922"
 			(at 162.56 159.004 0)
 			(effects
 				(font
@@ -6803,7 +6803,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RB886GT2R"
+		(property "Value" "SMS3922"
 			(at 149.86 145.034 0)
 			(effects
 				(font
@@ -7579,7 +7579,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RB886GT2R"
+		(property "Value" "SMS3922"
 			(at 156.21 145.034 0)
 			(effects
 				(font
@@ -7942,7 +7942,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RB886GT2R"
+		(property "Value" "SMS3922"
 			(at 149.86 159.004 0)
 			(effects
 				(font
@@ -10093,7 +10093,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RB886GT2R"
+		(property "Value" "SMS3922"
 			(at 143.51 159.004 0)
 			(effects
 				(font
@@ -10855,7 +10855,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "RB886GT2R"
+		(property "Value" "SMS3922"
 			(at 162.56 145.034 0)
 			(effects
 				(font
