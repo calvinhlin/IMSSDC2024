@@ -6299,7 +6299,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2U"
+		(property "Value" "4.7u"
 			(at 101.6 73.8124 90)
 			(effects
 				(font
