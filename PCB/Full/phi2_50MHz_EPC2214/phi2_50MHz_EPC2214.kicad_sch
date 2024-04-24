@@ -4945,7 +4945,7 @@
 		)
 		(uuid "6482d03d-a2f0-430e-8a8a-f895951dbe98")
 	)
-	(text "116 pF"
+	(text "181 pF"
 		(exclude_from_sim no)
 		(at 275.844 115.57 0)
 		(effects
@@ -6232,7 +6232,7 @@
 				)
 			)
 		)
-		(property "Value" "20n"
+		(property "Value" "25n"
 			(at 201.93 95.25 90)
 			(effects
 				(font
@@ -7805,7 +7805,7 @@
 				)
 			)
 		)
-		(property "Value" "259n"
+		(property "Value" "133n"
 			(at 289.56 95.25 90)
 			(effects
 				(font
@@ -8512,7 +8512,7 @@
 				)
 			)
 		)
-		(property "Value" "128n"
+		(property "Value" "81n"
 			(at 271.78 95.25 90)
 			(effects
 				(font
