@@ -1,17 +1,23 @@
 LTspice 24.0.9 for Windows
 Circuit: * C:\Users\linca\Desktop\SUPER Lab\IMSSDC2024\SPICE\phi_2\phi_2_50MHz_EPC2214.asc
-Start Time: Mon Apr 22 14:06:02 2024
+Start Time: Sat Apr 27 11:22:16 2024
 solver = Normal
 Maximum thread count: 16
 tnom = 27
 temp = 27
 method = modified trap
+WARNING: Node ZOUT is floating.
+
+WARNING: Less than two connections to node 12v.  This node is used by vdc1.
+WARNING: Less than two connections to node n001.  This node is used by l8.
 Direct Newton iteration for .op point succeeded.
 
-pin: AVG(i(l1)*v(12v))=13.0953 FROM 0 TO 8e-08
-pout: AVG(i(rl)*v(out))=11.4939 FROM 0 TO 8e-08
-pg: AVG(-v(g1)*i(v1))=0.297379 FROM 0 TO 8e-08
-efficiency: pout/(pin+pg)=0.858226
 
-Total elapsed time: 0.886 seconds.
+Measurement "pin" FAIL'ed
+pout: AVG(i(rl)*v(out))=0.000577695 FROM 0 TO 8e-08
+pg: AVG(-v(g1)*i(v1))=0.286356 FROM 0 TO 8e-08
+
+Measurement "efficiency" FAIL'ed
+
+Total elapsed time: 1.079 seconds.
 
