@@ -4955,7 +4955,7 @@
 		)
 		(uuid "6f2f83a5-71aa-4716-b992-27b08c7e6336")
 	)
-	(text "50 pF"
+	(text "28 pF"
 		(exclude_from_sim no)
 		(at 242.316 115.062 0)
 		(effects
