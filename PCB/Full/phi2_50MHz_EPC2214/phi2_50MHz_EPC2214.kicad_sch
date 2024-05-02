@@ -4945,7 +4945,7 @@
 		)
 		(uuid "6482d03d-a2f0-430e-8a8a-f895951dbe98")
 	)
-	(text "116 pF"
+	(text "181 pF"
 		(exclude_from_sim no)
 		(at 275.844 115.57 0)
 		(effects
@@ -4955,7 +4955,7 @@
 		)
 		(uuid "6f2f83a5-71aa-4716-b992-27b08c7e6336")
 	)
-	(text "28 pF"
+	(text "50 pF"
 		(exclude_from_sim no)
 		(at 242.316 115.062 0)
 		(effects
@@ -5157,7 +5157,7 @@
 			(uuid "24eeadb0-51c1-451e-9252-b19b5b7f92d4")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C25")
 					(unit 1)
@@ -5227,7 +5227,7 @@
 			(uuid "42ba8846-70bf-4528-8a36-5f3f87c400b6")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C3")
 					(unit 1)
@@ -5293,7 +5293,7 @@
 			(uuid "21a41b17-aca3-47bb-8239-494fab3f1c54")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR021")
 					(unit 1)
@@ -5359,7 +5359,7 @@
 			(uuid "8d04cfa6-bf21-4f83-b692-f60d078f2f2e")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR057")
 					(unit 1)
@@ -5424,7 +5424,7 @@
 			(uuid "3c320ca4-4184-4d11-944c-8a1af96d9912")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR04")
 					(unit 1)
@@ -5490,7 +5490,7 @@
 			(uuid "ed952058-97ba-4546-bb79-920935593816")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR024")
 					(unit 1)
@@ -5556,7 +5556,7 @@
 			(uuid "8d7ec9eb-25bb-4ebb-bf36-5834a495f2b1")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR05")
 					(unit 1)
@@ -5622,7 +5622,7 @@
 			(uuid "c7ce2bc0-736c-4033-ad7b-96c62cdd1f77")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR066")
 					(unit 1)
@@ -5690,7 +5690,7 @@
 			(uuid "ea262af5-21a7-40c3-8049-35ca08950055")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "L6")
 					(unit 1)
@@ -5759,7 +5759,7 @@
 			(uuid "f5a0c1d7-2023-4308-af8d-3bec3a7637f2")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C5")
 					(unit 1)
@@ -5834,7 +5834,7 @@
 					(unit 1)
 				)
 			)
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "R6")
 					(unit 1)
@@ -5900,7 +5900,7 @@
 			(uuid "de96db16-3ddd-479d-9a96-94b870098c8f")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR013")
 					(unit 1)
@@ -5987,7 +5987,7 @@
 			(uuid "026b2411-cce7-42a2-9b58-8b7a51316f17")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "D6")
 					(unit 1)
@@ -6067,7 +6067,7 @@
 			(uuid "e1ba5c6f-d39a-483a-91fa-ba8d196c5201")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "U5")
 					(unit 1)
@@ -6137,7 +6137,7 @@
 			(uuid "65ae1925-1a6f-4771-9480-18530efd7d11")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C2")
 					(unit 1)
@@ -6206,7 +6206,7 @@
 			(uuid "f8edab8b-d74c-4073-87a2-f36cab369001")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C8")
 					(unit 1)
@@ -6232,7 +6232,7 @@
 				)
 			)
 		)
-		(property "Value" "20n"
+		(property "Value" "25n"
 			(at 201.93 95.25 90)
 			(effects
 				(font
@@ -6274,7 +6274,7 @@
 			(uuid "172a1375-b69e-4545-a40a-2a5bf2537265")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "L1")
 					(unit 1)
@@ -6299,7 +6299,7 @@
 				)
 			)
 		)
-		(property "Value" "2.2U"
+		(property "Value" "4.7u"
 			(at 101.6 73.8124 90)
 			(effects
 				(font
@@ -6341,7 +6341,7 @@
 			(uuid "0e5cf360-12db-4871-8285-527d350506ed")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "L5")
 					(unit 1)
@@ -6410,7 +6410,7 @@
 			(uuid "f00b1449-807d-4c44-99fe-788026ef914c")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C21")
 					(unit 1)
@@ -6479,7 +6479,7 @@
 			(uuid "a54d7246-00c5-4b6a-bc20-d8e187e6c99a")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "R7")
 					(unit 1)
@@ -6566,7 +6566,7 @@
 			(uuid "9992aa4c-57fe-4ef2-9bdd-fdef0a0da1e8")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "D5")
 					(unit 1)
@@ -6641,7 +6641,7 @@
 					(unit 1)
 				)
 			)
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "R4")
 					(unit 1)
@@ -6708,7 +6708,7 @@
 			(uuid "7f72c913-0443-4724-9224-dfe4e3759807")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR014")
 					(unit 1)
@@ -6777,7 +6777,7 @@
 			(uuid "86009032-fb02-4fda-b1fd-48af1335f7ac")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C27")
 					(unit 1)
@@ -6864,7 +6864,7 @@
 			(uuid "f9978648-fdb6-4b36-a1d9-cc22f593c213")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "D2")
 					(unit 1)
@@ -6933,7 +6933,7 @@
 			(uuid "d3291f09-9a71-4844-a77b-61581ceddc40")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C29")
 					(unit 1)
@@ -6999,7 +6999,7 @@
 			(uuid "2c15229c-1a88-4cb3-ac11-00b9aef96a73")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR06")
 					(unit 1)
@@ -7065,7 +7065,7 @@
 			(uuid "5a22f481-5302-48f5-bdd5-a30449f12038")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR016")
 					(unit 1)
@@ -7131,7 +7131,7 @@
 			(uuid "8e239f59-11b4-42c8-9e98-7e0c971de35a")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR060")
 					(unit 1)
@@ -7210,7 +7210,7 @@
 			(uuid "a1d86108-b0a9-456b-bf26-7fbc7a38b5c8")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "U1")
 					(unit 1)
@@ -7279,7 +7279,7 @@
 			(uuid "6e5e27d8-fa72-4866-bd48-3a3197f917c3")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C18")
 					(unit 1)
@@ -7349,7 +7349,7 @@
 			(uuid "da7b12bd-ba4a-4f25-8f4a-c63f4f09eac5")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "L2")
 					(unit 1)
@@ -7418,7 +7418,7 @@
 			(uuid "686402c6-6d24-4566-977a-e0039d351660")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C28")
 					(unit 1)
@@ -7484,7 +7484,7 @@
 			(uuid "27975ac3-70bf-47d2-84c4-966fe1bcf3db")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR012")
 					(unit 1)
@@ -7553,7 +7553,7 @@
 			(uuid "e3e26ebf-af90-4847-b627-06900b84dd91")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C24")
 					(unit 1)
@@ -7640,7 +7640,7 @@
 			(uuid "3db53b58-848d-4c29-a129-47ab509585eb")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "D3")
 					(unit 1)
@@ -7710,7 +7710,7 @@
 			(uuid "24df1692-f928-4255-aa37-bd9b9c31533e")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C4")
 					(unit 1)
@@ -7779,7 +7779,7 @@
 			(uuid "9360f91a-b2cd-4aa9-9aa0-38c00968c32f")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C11")
 					(unit 1)
@@ -7805,7 +7805,7 @@
 				)
 			)
 		)
-		(property "Value" "259n"
+		(property "Value" "133n"
 			(at 289.56 95.25 90)
 			(effects
 				(font
@@ -7847,7 +7847,7 @@
 			(uuid "0b9e0ed6-970f-45b4-9d1b-5537c7c4f6e0")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "L4")
 					(unit 1)
@@ -7916,7 +7916,7 @@
 			(uuid "bf655819-fd57-4a2f-a86e-3377d5e2da7c")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C26")
 					(unit 1)
@@ -8003,7 +8003,7 @@
 			(uuid "c1b80ce4-8631-4f4a-9b0c-acc67f484805")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "D7")
 					(unit 1)
@@ -8072,7 +8072,7 @@
 			(uuid "235a2213-23f2-403c-a16c-984c56fedbb3")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "R3")
 					(unit 1)
@@ -8138,7 +8138,7 @@
 			(uuid "7c99bf9e-a859-4d7e-a00f-af35cbb1e0b1")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR019")
 					(unit 1)
@@ -8207,7 +8207,7 @@
 			(uuid "4fa97319-5190-4609-b798-697a68d99c1c")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C9")
 					(unit 1)
@@ -8274,7 +8274,7 @@
 			(uuid "9d9c001a-619b-409a-839d-09e64f44ef71")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR017")
 					(unit 1)
@@ -8340,7 +8340,7 @@
 			(uuid "9d05392c-edf5-44df-9cd6-4b4a00326611")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR064")
 					(unit 1)
@@ -8406,7 +8406,7 @@
 			(uuid "5da2480f-ba97-4133-bb5c-5551588211a9")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR051")
 					(unit 1)
@@ -8486,7 +8486,7 @@
 			(uuid "7a03a334-3a76-4c64-8bee-37ba22a55bea")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "U7")
 					(unit 1)
@@ -8512,7 +8512,7 @@
 				)
 			)
 		)
-		(property "Value" "128n"
+		(property "Value" "81n"
 			(at 271.78 95.25 90)
 			(effects
 				(font
@@ -8554,7 +8554,7 @@
 			(uuid "06cb3b90-8abd-408d-873a-9ae48f7c42e4")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "L3")
 					(unit 1)
@@ -8634,7 +8634,7 @@
 			(uuid "410a83ba-1c59-421d-bc8b-aa7c0b784d07")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "U3")
 					(unit 1)
@@ -8700,7 +8700,7 @@
 			(uuid "e1ece731-e442-4180-821b-bea3cea1209d")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR01")
 					(unit 1)
@@ -8769,7 +8769,7 @@
 			(uuid "3edd7a42-368a-4960-93e3-c11df891a04d")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C12")
 					(unit 1)
@@ -8835,7 +8835,7 @@
 			(uuid "f38b3d33-729b-47ec-b916-ce46ea0456e6")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR022")
 					(unit 1)
@@ -8915,7 +8915,7 @@
 			(uuid "7b1f66ea-2275-48a6-be4a-e840c7478867")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "U6")
 					(unit 1)
@@ -8981,7 +8981,7 @@
 			(uuid "d18b798a-84ec-4f74-8dcf-33df02dd3551")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR065")
 					(unit 1)
@@ -9050,7 +9050,7 @@
 			(uuid "512b546e-b7bd-41f0-8458-11c3c4950647")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C23")
 					(unit 1)
@@ -9125,7 +9125,7 @@
 					(unit 1)
 				)
 			)
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "J1")
 					(unit 1)
@@ -9194,7 +9194,7 @@
 			(uuid "b36882f2-1d70-4394-88ae-63ff44f9e1d7")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C10")
 					(unit 1)
@@ -9260,7 +9260,7 @@
 			(uuid "712fc143-2f46-4f91-8c19-e0f2b88213f4")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR03")
 					(unit 1)
@@ -9360,7 +9360,7 @@
 			(uuid "861d8a72-c180-449c-842b-522927cb7a33")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "Q1")
 					(unit 1)
@@ -9426,7 +9426,7 @@
 			(uuid "03d8d513-bc2a-4b84-82c9-1ce7ebb2e714")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR029")
 					(unit 1)
@@ -9499,7 +9499,7 @@
 					(unit 1)
 				)
 			)
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "R5")
 					(unit 1)
@@ -9568,7 +9568,7 @@
 			(uuid "70896060-49ee-47f1-b0c5-c80b6815e6c0")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C15")
 					(unit 1)
@@ -9637,7 +9637,7 @@
 			(uuid "3136fec8-2b60-4375-ae53-aed8a872c465")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C19")
 					(unit 1)
@@ -9724,7 +9724,7 @@
 			(uuid "5343a7f7-bfa1-4729-b731-2cf61d71f1f0")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "D1")
 					(unit 1)
@@ -9793,7 +9793,7 @@
 			(uuid "d5c78d0e-55ac-4c52-8c4b-55ac517998d2")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C20")
 					(unit 1)
@@ -9862,7 +9862,7 @@
 			(uuid "a66b9315-bb48-49d7-a2e0-b908c7aef0db")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "R1")
 					(unit 1)
@@ -9928,7 +9928,7 @@
 			(uuid "1c39bcb0-0bd4-465f-aa31-d3f7da64034a")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR023")
 					(unit 1)
@@ -9997,7 +9997,7 @@
 			(uuid "ea0b9efa-c1ea-4b94-ba53-1e732945998a")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C6")
 					(unit 1)
@@ -10067,7 +10067,7 @@
 			(uuid "9ff1574b-2b64-41ac-bdea-838d16270352")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C1")
 					(unit 1)
@@ -10154,7 +10154,7 @@
 			(uuid "d55018fb-9355-4802-bc80-66c3b728a083")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "D8")
 					(unit 1)
@@ -10220,7 +10220,7 @@
 			(uuid "60020088-143e-4ded-9bf9-8615313fb455")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR015")
 					(unit 1)
@@ -10289,7 +10289,7 @@
 			(uuid "95412a00-3bf2-4ce3-8876-4157e596e72b")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C13")
 					(unit 1)
@@ -10358,7 +10358,7 @@
 			(uuid "3cdc5a3d-4930-4088-b553-d73beb04b599")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C14")
 					(unit 1)
@@ -10424,7 +10424,7 @@
 			(uuid "c4415dd9-8b41-4367-b6af-f5a35c8f0c24")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR052")
 					(unit 1)
@@ -10493,7 +10493,7 @@
 			(uuid "149066df-7cc2-476b-aafb-d478da4bff53")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C7")
 					(unit 1)
@@ -10562,7 +10562,7 @@
 			(uuid "a2ba702a-b77b-4696-8529-16aa1a3604ec")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "R2")
 					(unit 1)
@@ -10631,7 +10631,7 @@
 			(uuid "514fd3cc-cf29-4ea5-83ee-a91a51f43ec3")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C17")
 					(unit 1)
@@ -10697,7 +10697,7 @@
 			(uuid "0376a43a-77b9-4b68-8a38-21d86b205983")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR02")
 					(unit 1)
@@ -10763,7 +10763,7 @@
 			(uuid "0351b2bc-8bc2-4b6b-b5cd-6765b5c27728")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR018")
 					(unit 1)
@@ -10829,7 +10829,7 @@
 			(uuid "7c51a166-da6c-41cb-b218-2082a3a90e3f")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR08")
 					(unit 1)
@@ -10916,7 +10916,7 @@
 			(uuid "4c18740a-003d-4609-b969-5154324ded7a")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "D4")
 					(unit 1)
@@ -10982,7 +10982,7 @@
 			(uuid "7b9afb13-bbc8-4947-8338-ee8c076c7c1b")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR07")
 					(unit 1)
@@ -11056,7 +11056,7 @@
 			(uuid "1619c502-a6da-4e15-b9f2-95170faf941e")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "J6")
 					(unit 1)
@@ -11125,7 +11125,7 @@
 			(uuid "1b88fb9a-57b2-432a-ad2e-2f19ab78ce2a")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "C22")
 					(unit 1)
@@ -11199,7 +11199,7 @@
 			(uuid "bdd159cf-7d51-42f4-8976-b3369aa89b56")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "J5")
 					(unit 1)
@@ -11265,7 +11265,7 @@
 			(uuid "23eed8b1-f541-4d76-af18-fa29bec4127e")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR020")
 					(unit 1)
@@ -11350,7 +11350,7 @@
 					(unit 1)
 				)
 			)
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "U4")
 					(unit 1)
@@ -11419,7 +11419,7 @@
 			(uuid "32703866-132d-4784-8fa1-a76b7350b091")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "J2")
 					(unit 1)
@@ -11484,7 +11484,7 @@
 			(uuid "2ca196dd-5879-44ad-bf00-098512e05077")
 		)
 		(instances
-			(project "phi2_50MHz_EPC2214"
+			(project "pcb2blender_tmp"
 				(path "/f0e94b14-ee89-4887-b170-fe37e788a393"
 					(reference "#PWR09")
 					(unit 1)
