@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EPC_FETs")(type "KiCad")(uri "C:/Users/linca/Desktop/SUPER Lab/pcbparts/Symbols/EPC_FETs.kicad_sym")(options "")(descr ""))
+  (lib (name "parts")(type "Legacy")(uri "C:/Users/linca/Desktop/SUPER Lab/pcbparts/parts.lib")(options "")(descr ""))
+)
