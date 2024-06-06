@@ -1,6 +1,6 @@
 LTspice 24.0.9 for Windows
 Circuit: * C:\Users\linca\Desktop\SUPER Lab\IMSSDC2024\SPICE\phi_2\phi_2_50MHz_EPC8010.asc
-Start Time: Thu May 30 16:20:18 2024
+Start Time: Tue Jun  4 11:07:13 2024
 solver = Normal
 Maximum thread count: 16
 tnom = 27
@@ -13,10 +13,10 @@ WARNING: Less than two connections to node n001.  This node is used by l8.
 WARNING: Less than two connections to node nc_01.  This node is used by i4.
 Direct Newton iteration for .op point succeeded.
 
-pin: AVG(i(l1)*v(12v))=11.0794 FROM 0 TO 8e-08
-pout: AVG(i(rl)*v(out))=8.64147 FROM 0 TO 8e-08
-pg: AVG(-v(g1)*i(v1))=0.0304899 FROM 0 TO 8e-08
-efficiency: pout/(pin+pg)=0.777816
+pin: AVG(i(l1)*v(12v))=11.6071 FROM 0 TO 8e-08
+pout: AVG(i(rl)*v(out))=10.3636 FROM 0 TO 8e-08
+pg: AVG(-v(g1)*i(v1))=0.014805 FROM 0 TO 8e-08
+efficiency: pout/(pin+pg)=0.891735
 
-Total elapsed time: 6.048 seconds.
+Total elapsed time: 3.882 seconds.
 
