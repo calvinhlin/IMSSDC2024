@@ -1,10 +1,10 @@
 %!PS-Adobe-3.0 EPSF-3.0
-%%Title: C:/Users/linca/Desktop/SuPEr Lab/IMSSDC2024/XCircuit/test_block.eps
+%%Title: C:/Users/linca/Desktop/SUPER Lab/IMSSDC2024/XCircuit/test_block.eps
 %%Creator: XCircuit v3.4 rev10
-%%CreationDate: Thu Sep 05 21:03:08 2024
+%%CreationDate: Fri Sep 06 10:57:54 2024
 %%Pages: 1
-%%BoundingBox: 68 68 501 350
-%%DocumentNeededResources: font Times-Roman font Symbol 
+%%BoundingBox: 68 68 477 350
+%%DocumentNeededResources: font Helvetica font Times-Roman font Symbol 
 %%EndComments
 %%BeginProlog
 %
@@ -201,6 +201,16 @@ begingate
 endgate
 } def
 
+/tap {
+% trivial
+<</in (bus\(0:7\)) /out (bus\(0\)) >> begingate
+496 1.00 0 8 16 0 0 -8 3 polygon
+1.000 0.000 0.000 scb
+mark out {/Helvetica cf} ctmk 20 0 1.00 16 0 pinlabel
+mark in {/Helvetica cf} ctmk 23 0 1.00 0 0 pinlabel
+endgate
+} def
+
 
 %%EndSetup
 
@@ -208,13 +218,13 @@ endgate
 %%PageOrientation: Portrait
 /pgsave save def bop
 1.0000 inchscale
-2.6000 setlinewidth 624 380 translate
+2.6000 setlinewidth 544 380 translate
 
 1.00 0 -304 -64 acsource
 1 1.00 -16 0 -176 -96 -176 80 -16 0 4 polygon
 1.00 0 576 -64 resistor
 1 1.00 400 320 400 368 2 polygon
-1 1.00 128 544 128 368 432 368 432 544 128 544 5 polygon
+1 1.00 112 544 112 368 448 368 448 544 112 544 5 polygon
 1 1.00 -16 0 96 0 2 polygon
 1 1.00 464 0 576 0 2 polygon
 1.00 0 576 -128 gnd
@@ -228,32 +238,41 @@ endgate
 1 1.00 128 -48 32 180.00 270.00 xcarc
 1 1.00 224 112 432 112 2 polygon
 1 1.00 224 -80 432 -80 2 polygon
-0 1.00 368 320 368 192 432 192 432 320 4 polygon
+0 1.00 368 320 368 176 432 176 432 320 4 polygon
 1 1.00 160 320 160 368 2 polygon
-0 1.00 128 320 128 192 192 192 192 320 4 polygon
-1 1.00 160 192 160 112 2 polygon
-1 1.00 400 192 400 112 2 polygon
+0 1.00 128 320 128 176 192 176 192 320 4 polygon
+1 1.00 160 176 160 112 2 polygon
+1 1.00 400 176 400 112 2 polygon
 1 1.00 -192 240 -192 144 -16 144 -16 240 -192 240 5 polygon
 1 1.00 -112 144 -112 48 2 polygon
-(Werlatone C3807) {/Times-Roman cf} 2 16 0 1.00 144 -128 label
-(FWD) {/Times-Roman cf} 2 16 0 1.00 112 64 label
+(Werlatone C5827) {/Times-Roman cf} 2 16 0 1.00 128 -128 label
+(FWD) {/Times-Roman cf} 2 16 0 1.00 128 64 label
 (REV) {/Times-Roman cf} 2 16 0 1.00 352 64 label
 1 1.00 128 112 224 112 2 polygon
 1 1.00 128 -80 224 -80 2 polygon
 1 1.00 464 -48 464 0 2 polygon
 (Input) {/Times-Roman cf} 2 16 0 1.00 112 -16 label
 (Output) {/Times-Roman cf} 2 16 0 1.00 336 -16 label
-(Directional Coupler) {/Times-Roman cf} 2 16 0 1.00 144 -176 label
+(Directional Coupler) {/Times-Roman cf} 2 16 0 1.00 128 -176 label
 (A) {/Times-Roman cf} 2 16 0 1.00 144 384 label
 (B) {/Times-Roman cf} 2 16 0 1.00 384 384 label
 (Power Meter) {/Times-Roman cf} 2 16 0 1.00 176 448 label
 (12V) {/Times-Roman cf} 2 16 0 1.00 -144 192 label
 (Supply) {/Times-Roman cf} 2 16 0 1.00 -160 160 label
-(Keysight) {/Times-Roman cf} 2 16 0 1.00 208 496 label
-(Pwr sensors) {/Times-Roman cf} 2 16 0 1.00 176 144 label
+(N8482A) {/Times-Roman cf} 2 16 360 1.00 480 272 label
 (W) {/Symbol cf} (50 ) {/Times-Roman cf} 4 16 0 1.00 608 -80 label
 (PA) {/Times-Roman cf} 2 16 0 1.00 -144 -16 label
-(RF IN) {/Times-Roman cf} 2 16 0 1.00 -432 -32 label
+(RF IN) {/Times-Roman cf} 2 16 0 1.00 -352 16 label
+(Keysight N1914A) {/Times-Roman cf} 2 16 0 1.00 144 496 label
+(Power sensors) {/Times-Roman cf} 2 16 0 1.00 480 224 label
+1.000 0.000 0.000 scb
+(This work) {/Times-Roman cf} 2 16 0 1.00 -176 -144 label
+2 1.00 -208 96 -208 -160 16 -160 16 96 4 polygon
+0.000 0.000 0.000 scb
+1 1.00 480 272 176 272 2 polygon
+1.00 180 176 272 tap
+1 1.00 480 272 416 240 2 polygon
+1.00 150 416 240 tap
 pgsave restore showpage
 
 %%Trailer
