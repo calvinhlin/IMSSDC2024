@@ -5,12 +5,11 @@
    viewBox="0 0 433.21454 178.62813"
    version="1.1"
    id="svg159"
-   sodipodi:docname="phi2.eps"
+   sodipodi:docname="phi2.eps.svg"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    inkscape:export-filename="phi2.eps.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:dataloss="true"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,13 +25,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="2.3155172"
-     inkscape:cx="549.3373"
-     inkscape:cy="119.41176"
+     inkscape:zoom="1.9890416"
+     inkscape:cx="297.63077"
+     inkscape:cy="108.59501"
      inkscape:window-width="1920"
-     inkscape:window-height="1129"
-     inkscape:window-x="2552"
-     inkscape:window-y="-8"
+     inkscape:window-height="1130"
+     inkscape:window-x="2553"
+     inkscape:window-y="-6"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg159" />
   <defs
@@ -1076,140 +1075,28 @@
      fill="#000000"
      fill-opacity="1"
      id="g113"
-     transform="translate(-4.0655999,-2.859375)">
-    <use
-       xlink:href="#glyph-1-0"
-       x="62.162498"
-       y="50.5"
-       id="use109" />
-    <use
-       xlink:href="#glyph-1-1"
-       x="67.787498"
-       y="50.5"
-       id="use110" />
+     transform="translate(14.513469,-1.3739635)">
     <use
        xlink:href="#glyph-1-2"
        x="73.412498"
        y="50.5"
        id="use111" />
-    <use
-       xlink:href="#glyph-1-3"
-       x="76.224998"
-       y="50.5"
-       id="use112" />
-    <use
-       xlink:href="#glyph-1-4"
-       x="81.849998"
-       y="50.5"
-       id="use113" />
-  </g>
-  <g
-     fill="#000000"
-     fill-opacity="1"
-     id="g118"
-     transform="translate(2.4124344,-3.8310801)">
-    <use
-       xlink:href="#glyph-1-5"
-       x="8.7531004"
-       y="110.5"
-       id="use114" />
-    <use
-       xlink:href="#glyph-1-6"
-       x="14.3781"
-       y="110.5"
-       id="use115" />
-    <use
-       xlink:href="#glyph-1-2"
-       x="20.003099"
-       y="110.5"
-       id="use116" />
-    <use
-       xlink:href="#glyph-1-3"
-       x="22.815599"
-       y="110.5"
-       id="use117" />
-    <use
-       xlink:href="#glyph-1-4"
-       x="28.440599"
-       y="110.5"
-       id="use118" />
-  </g>
-  <g
-     fill="#000000"
-     fill-opacity="1"
-     id="g124"
-     transform="translate(1.1168275,-2.859375)">
-    <use
-       xlink:href="#glyph-1-5"
-       x="2.7530999"
-       y="154"
-       id="use119" />
-    <use
-       xlink:href="#glyph-1-7"
-       x="8.3781004"
-       y="154"
-       id="use120" />
-    <use
-       xlink:href="#glyph-1-8"
-       x="14.0031"
-       y="154"
-       id="use121" />
-    <use
-       xlink:href="#glyph-1-2"
-       x="19.628099"
-       y="154"
-       id="use122" />
-    <use
-       xlink:href="#glyph-1-9"
-       x="22.440599"
-       y="154"
-       id="use123" />
-    <use
-       xlink:href="#glyph-1-10"
-       x="28.065599"
-       y="154"
-       id="use124" />
-  </g>
-  <g
-     fill="#000000"
-     fill-opacity="1"
-     id="g131"
-     transform="translate(-4.0655999,-2.859375)">
-    <use
-       xlink:href="#glyph-1-11"
-       x="128.3651"
-       y="157"
-       id="use125" />
-    <use
-       xlink:href="#glyph-1-12"
-       x="135.23885"
-       y="157"
-       id="use126" />
-    <use
-       xlink:href="#glyph-1-13"
-       x="141.49385"
-       y="157"
-       id="use127" />
-    <use
-       xlink:href="#glyph-1-0"
-       x="148.9976"
-       y="157"
-       id="use128" />
-    <use
-       xlink:href="#glyph-1-0"
-       x="154.6226"
-       y="157"
-       id="use129" />
-    <use
-       xlink:href="#glyph-1-5"
-       x="160.2476"
-       y="157"
-       id="use130" />
-    <use
-       xlink:href="#glyph-1-7"
-       x="165.8726"
-       y="157"
-       id="use131" />
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;stroke-width:0.999997;-inkscape-stroke:none;stop-color:#000000"
+       x="45.965626"
+       y="48.86142"
+       id="text1"><tspan
+         sodipodi:role="line"
+         style="font-size:12px;stroke-width:1"
+         x="45.965626"
+         y="48.86142"
+         id="tspan13">140 nH  </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:1"
+         x="45.965626"
+         y="61.198559"
+         id="tspan2" /></text>
   </g>
   <path
      fill="none"
@@ -1221,32 +1108,6 @@
      stroke-miterlimit="6"
      d="m 157.4344,110.64062 h -7.5 v -9 h -9 v 9 h -7.5"
      id="path131" />
-  <g
-     fill="#000000"
-     fill-opacity="1"
-     id="g135"
-     transform="translate(-4.0655999,-2.859375)">
-    <use
-       xlink:href="#glyph-1-14"
-       x="240.517"
-       y="67"
-       id="use132" />
-    <use
-       xlink:href="#glyph-1-2"
-       x="246.142"
-       y="67"
-       id="use133" />
-    <use
-       xlink:href="#glyph-1-3"
-       x="248.9545"
-       y="67"
-       id="use134" />
-    <use
-       xlink:href="#glyph-1-10"
-       x="254.5795"
-       y="67"
-       id="use135" />
-  </g>
   <path
      fill="none"
      stroke-width="0.975"
@@ -1257,73 +1118,6 @@
      stroke-miterlimit="6"
      d="m 224.9344,82.140625 h -24"
      id="path135" />
-  <g
-     fill="#000000"
-     fill-opacity="1"
-     id="g140"
-     transform="translate(-4.0655999,-2.859375)">
-    <use
-       xlink:href="#glyph-1-6"
-       x="282.37"
-       y="68.5"
-       id="use136" />
-    <use
-       xlink:href="#glyph-1-5"
-       x="287.995"
-       y="68.5"
-       id="use137" />
-    <use
-       xlink:href="#glyph-1-2"
-       x="293.62"
-       y="68.5"
-       id="use138" />
-    <use
-       xlink:href="#glyph-1-3"
-       x="296.4325"
-       y="68.5"
-       id="use139" />
-    <use
-       xlink:href="#glyph-1-4"
-       x="302.0575"
-       y="68.5"
-       id="use140" />
-  </g>
-  <g
-     fill="#000000"
-     fill-opacity="1"
-     id="g146"
-     transform="translate(-4.0655999,-2.859375)">
-    <use
-       xlink:href="#glyph-1-5"
-       x="347.75275"
-       y="68.5"
-       id="use141" />
-    <use
-       xlink:href="#glyph-1-14"
-       x="353.37775"
-       y="68.5"
-       id="use142" />
-    <use
-       xlink:href="#glyph-1-14"
-       x="359.00275"
-       y="68.5"
-       id="use143" />
-    <use
-       xlink:href="#glyph-1-2"
-       x="364.62775"
-       y="68.5"
-       id="use144" />
-    <use
-       xlink:href="#glyph-1-3"
-       x="367.44025"
-       y="68.5"
-       id="use145" />
-    <use
-       xlink:href="#glyph-1-4"
-       x="373.06525"
-       y="68.5"
-       id="use146" />
-  </g>
   <g
      fill="#000000"
      fill-opacity="1"
@@ -1340,76 +1134,97 @@
        y="134.5"
        id="use148" />
   </g>
-  <g
-     fill="#000000"
-     fill-opacity="1"
-     id="g154"
-     transform="translate(-4.0655999,-2.859375)">
-    <use
-       xlink:href="#glyph-1-5"
-       x="344.7525"
-       y="131.5"
-       id="use149" />
-    <use
-       xlink:href="#glyph-1-6"
-       x="350.3775"
-       y="131.5"
-       id="use150" />
-    <use
-       xlink:href="#glyph-1-5"
-       x="356.0025"
-       y="131.5"
-       id="use151" />
-    <use
-       xlink:href="#glyph-1-2"
-       x="361.6275"
-       y="131.5"
-       id="use152" />
-    <use
-       xlink:href="#glyph-1-9"
-       x="364.44"
-       y="131.5"
-       id="use153" />
-    <use
-       xlink:href="#glyph-1-10"
-       x="370.065"
-       y="131.5"
-       id="use154" />
-  </g>
-  <g
-     fill="#000000"
-     fill-opacity="1"
-     id="g159"
-     transform="translate(-4.0655999,-2.859375)">
-    <use
-       xlink:href="#glyph-1-1"
-       x="234.63976"
-       y="131.5"
-       id="use155" />
-    <use
-       xlink:href="#glyph-1-8"
-       x="240.26476"
-       y="131.5"
-       id="use156" />
-    <use
-       xlink:href="#glyph-1-2"
-       x="245.88976"
-       y="131.5"
-       id="use157" />
-    <use
-       xlink:href="#glyph-1-9"
-       x="248.70226"
-       y="131.5"
-       id="use158" />
-    <use
-       xlink:href="#glyph-1-10"
-       x="254.32726"
-       y="131.5"
-       id="use159" />
-  </g>
   <path
      style="font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '"
      d="m 424.10153,129.70763 h 0.18067 q 0.0195,0.34668 0.20507,0.48339 0.18555,0.13672 0.59082,0.13672 h 1.33301 l -0.01,-0.32714 q -0.77637,-0.15625 -1.41602,-0.86426 -0.63965,-0.70801 -0.63965,-1.78711 0,-1.19629 0.88867,-2.04102 0.89356,-0.84472 2.32911,-0.84472 1.3916,0 2.27539,0.80078 0.88379,0.7959 0.88379,2.04101 0,1.01074 -0.55176,1.71875 -0.54688,0.70313 -1.48438,0.97657 l -0.0488,0.32714 h 1.35743 q 0.46386,0 0.61035,-0.17578 0.15137,-0.17578 0.16113,-0.44433 h 0.18067 v 1.52832 h -2.73438 l 0.12695,-1.47461 q 1.25977,-0.39551 1.25977,-2.3291 0,-1.26465 -0.62012,-1.93848 -0.61523,-0.67383 -1.44531,-0.67383 -0.88379,0 -1.46484,0.71777 -0.57618,0.7129 -0.57618,1.82618 0,0.80566 0.25879,1.46972 0.25879,0.65918 0.99121,0.92774 l 0.0928,1.47461 h -2.73438 z"
      id="text159"
      aria-label="Ω" />
+  <text
+     xml:space="preserve"
+     style="font-size:12px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;stroke-width:0.999997;-inkscape-stroke:none;stop-color:#000000"
+     x="119.27853"
+     y="154.48279"
+     id="text3"><tspan
+       sodipodi:role="line"
+       style="font-size:12px;stroke-width:1"
+       x="119.27853"
+       y="154.48279"
+       id="tspan4">EPC8010</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;stroke-width:0.999997;-inkscape-stroke:none;stop-color:#000000"
+     x="230.59299"
+     y="124.68314"
+     id="text5"><tspan
+       sodipodi:role="line"
+       style="font-size:12px;stroke-width:1"
+       x="230.59299"
+       y="124.68314"
+       id="tspan6">90 pF</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;stroke-width:0.999997;-inkscape-stroke:none;stop-color:#000000"
+     x="6.5151224"
+     y="153.7292"
+     id="text5-9"><tspan
+       sodipodi:role="line"
+       style="font-size:12px;stroke-width:1"
+       x="6.5151224"
+       y="153.7292"
+       id="tspan15">68 pF</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;stroke-width:0.999997;-inkscape-stroke:none;stop-color:#000000"
+     x="343.56775"
+     y="127.33045"
+     id="text5-7"><tspan
+       sodipodi:role="line"
+       style="font-size:12px;stroke-width:1"
+       x="343.56775"
+       y="127.33045"
+       id="tspan14">181 pF</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;line-height:0;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;stroke-width:0.999997;-inkscape-stroke:none;stop-color:#000000"
+     x="240.56813"
+     y="64.101219"
+     id="text7"><tspan
+       sodipodi:role="line"
+       style="font-size:12px;line-height:0;stroke-width:1"
+       x="240.56813"
+       y="64.101219"
+       id="tspan9">4 nF</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;stroke-width:0.999997;-inkscape-stroke:none;stop-color:#000000"
+     x="278.27472"
+     y="70.134285"
+     id="text10"><tspan
+       sodipodi:role="line"
+       style="font-size:12px;stroke-width:1"
+       x="278.27472"
+       y="70.134285"
+       id="tspan11">54 nH</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;stroke-width:0.999997;-inkscape-stroke:none;stop-color:#000000"
+     x="343.88651"
+     y="68.822189"
+     id="text10-2"><tspan
+       sodipodi:role="line"
+       style="font-size:12px;stroke-width:1"
+       x="343.88651"
+       y="68.822189"
+       id="tspan11-5">133 nH</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:12px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;stroke-width:0.999997;-inkscape-stroke:none;stop-color:#000000"
+     x="9.42665"
+     y="106.33263"
+     id="text12"><tspan
+       sodipodi:role="line"
+       id="tspan12"
+       style="font-size:12px;stroke-width:1"
+       x="9.42665"
+       y="106.33263">37 nH</tspan></text>
 </svg>

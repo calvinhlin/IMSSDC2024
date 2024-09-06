@@ -1,9 +1,9 @@
 %!PS-Adobe-3.0 EPSF-3.0
 %%Title: C:/Users/linca/Desktop/SUPER Lab/IMSSDC2024/XCircuit/RGD.eps
 %%Creator: XCircuit v3.4 rev10
-%%CreationDate: Fri May 03 11:42:34 2024
+%%CreationDate: Thu Aug 29 13:34:21 2024
 %%Pages: 1
-%%BoundingBox: 68 68 591 209
+%%BoundingBox: 68 68 549 209
 %%DocumentNeededResources: font Times-Roman font Symbol 
 %%EndComments
 %%BeginProlog
@@ -156,28 +156,6 @@
 
 %%BeginSetup
 
-/invert {
-% trivial
-begingate
-0 1.00 -32 -40 -32 40 40 0 3 polygon
-1 1.00 48 0 8 0.00 360.00 xcarc
-1 1.00 -32 0 -48 0 2 polygon
-1 1.00 56 0 64 0 2 polygon
-1.000 0.000 0.000 scb
-(Out) {/Times-Roman cf} 2 4 0 1.00 64 0 pinlabel
-(In) {/Times-Roman cf} 2 7 0 1.00 -48 0 pinlabel
-endgate
-} def
-
-/dot {
-% trivial
-begingate
-248 1.00 0 0 6 0.00 360.00 xcarc
-1.000 0.000 0.000 scb
-(x) {/Times-Roman cf} 2 29 0 1.00 0 0 pinlabel
-endgate
-} def
-
 /opamp {
 begingate
 0 1.00 -80 -80 -80 80 80 0 3 polygon
@@ -286,6 +264,15 @@ begingate
 endgate
 } def
 
+/dot {
+% trivial
+begingate
+248 1.00 0 0 6 0.00 360.00 xcarc
+1.000 0.000 0.000 scb
+(x) {/Times-Roman cf} 2 29 0 1.00 0 0 pinlabel
+endgate
+} def
+
 /source {
 % hidden
 begingate
@@ -305,6 +292,18 @@ begingate
 endgate
 } def
 
+/buffer {
+% trivial
+begingate
+0 1.00 -32 -40 -32 40 40 0 3 polygon
+1 1.00 -32 0 -48 0 2 polygon
+1 1.00 40 0 64 0 2 polygon
+1.000 0.000 0.000 scb
+(Out) {/Times-Roman cf} 2 4 0 1.00 64 0 pinlabel
+(In) {/Times-Roman cf} 2 7 0 1.00 -48 0 pinlabel
+endgate
+} def
+
 
 %%EndSetup
 
@@ -313,120 +312,117 @@ endgate
 /pgsave save def bop
 % 32.00 8.00 gridspace
 0.7500 inchscale
-2.6000 setlinewidth 1440 472 translate
+2.6000 setlinewidth 1328 472 translate
 
-1.00 0 -440 24 invert
-1.00 0 -248 136 invert
-1.00 0 -248 24 invert
-1.00 0 -248 -88 invert
-1 1.00 -296 136 -344 136 -344 -88 -296 -88 4 polygon
-1 1.00 -296 24 -376 24 2 polygon
-1.00 0 -344 24 dot
-1 1.00 -184 136 -120 136 -120 -88 -184 -88 -168 -88 5 polygon
-1 1.00 -184 24 -120 24 2 polygon
-1 1.00 -120 24 -40 24 -24 24 3 polygon
-1.00 0 -120 24 dot
--1.00 180 -676 24 opamp
-1.00 0 -808 136 resistor
-1.00 270 -872 -28 resistor
-1.00 0 -808 -92 resistor
-1.00 0 -808 -156 gnd
-1.00 180 -808 200 gnd
-1 1.00 -600 24 -504 24 2 polygon
-1 1.00 -504 24 -488 24 2 polygon
-1.00 0 456 24 nmos2
-1.00 270 40 24 inductor
-1 1.00 -8 24 -24 24 2 polygon
-1.00 0 168 104 diode
-1 1.00 104 24 392 24 2 polygon
-1 1.00 168 56 168 24 168 -8 3 polygon
-1 1.00 216 56 216 -8 2 polygon
-1 1.00 264 56 264 -8 2 polygon
-1 1.00 312 56 312 -8 2 polygon
-1 1.00 168 -104 168 -120 312 -120 312 -104 4 polygon
-1 1.00 264 -104 264 -120 2 polygon
-1 1.00 216 -104 216 -120 2 polygon
-1 1.00 168 152 168 168 312 168 312 152 4 polygon
-1 1.00 264 152 264 168 2 polygon
-1 1.00 216 152 216 168 2 polygon
-1 1.00 240 168 240 192 2 polygon
-1 1.00 224 192 256 192 2 polygon
-1 1.00 240 -120 240 -128 2 polygon
-1.00 0 240 -128 gnd
-1.00 0 456 -56 gnd
-1 1.00 456 -40 456 -56 2 polygon
-1 1.00 148 120 148 128 156 128 3 polygon
-1 1.00 188 120 188 112 184 112 3 polygon
-1 1.00 180 112 184 112 2 polygon
-1 1.00 148 120 152 120 2 polygon
-1 1.00 184 120 188 120 2 polygon
-1.00 0 216 104 diode
-1 1.00 196 120 196 128 204 128 3 polygon
-1 1.00 236 120 236 112 232 112 3 polygon
-1 1.00 228 112 232 112 2 polygon
-1 1.00 196 120 200 120 2 polygon
-1 1.00 232 120 236 120 2 polygon
-1.00 0 264 104 diode
-1 1.00 244 120 244 128 252 128 3 polygon
-1 1.00 284 120 284 112 280 112 3 polygon
-1 1.00 276 112 280 112 2 polygon
-1 1.00 244 120 248 120 2 polygon
-1 1.00 280 120 284 120 2 polygon
-1.00 0 312 104 diode
-1 1.00 292 120 292 128 300 128 3 polygon
-1 1.00 332 120 332 112 328 112 3 polygon
-1 1.00 324 112 328 112 2 polygon
-1 1.00 292 120 296 120 2 polygon
-1 1.00 328 120 332 120 2 polygon
-1.00 0 168 -56 diode
-1 1.00 148 -40 148 -32 156 -32 3 polygon
-1 1.00 188 -40 188 -48 184 -48 3 polygon
-1 1.00 180 -48 184 -48 2 polygon
-1 1.00 148 -40 152 -40 2 polygon
-1 1.00 184 -40 188 -40 2 polygon
-1.00 0 216 -56 diode
-1 1.00 196 -40 196 -32 204 -32 3 polygon
-1 1.00 236 -40 236 -48 232 -48 3 polygon
-1 1.00 228 -48 232 -48 2 polygon
-1 1.00 196 -40 200 -40 2 polygon
-1 1.00 232 -40 236 -40 2 polygon
-1.00 0 264 -56 diode
-1 1.00 244 -40 244 -32 252 -32 3 polygon
-1 1.00 284 -40 284 -48 280 -48 3 polygon
-1 1.00 276 -48 280 -48 2 polygon
-1 1.00 244 -40 248 -40 2 polygon
-1 1.00 280 -40 284 -40 2 polygon
-1.00 0 312 -56 diode
-1 1.00 292 -40 292 -32 300 -32 3 polygon
-1 1.00 332 -40 332 -48 328 -48 3 polygon
-1 1.00 324 -48 328 -48 2 polygon
-1 1.00 292 -40 296 -40 2 polygon
-1 1.00 328 -40 332 -40 2 polygon
-(TLV3501) {/Times-Roman cf} 2 16 0 1.00 -708 -68 label
-(NC7WZ04 x4) {/Times-Roman cf} 2 16 0 1.00 -544 156 label
-(10 nH) {/Times-Roman cf} 2 16 0 1.00 -12 -36 label
-(EPC2214) {/Times-Roman cf} 2 16 0 1.00 484 8 label
-(SMS3922 x8) {/Times-Roman cf} 2 16 0 1.00 -72 144 label
-1.00 0 168 24 dot
-1.00 0 216 24 dot
-1.00 0 264 24 dot
-1.00 0 312 24 dot
-1 1.00 -808 72 -1000 72 2 polygon
-(50) {/Times-Roman cf} 2 16 0 1.00 -788 128 label
-(ref) {ss} (V) {/Times-Roman cf} 4 16 0 1.00 -840 -8 label
-1 1.00 -812 72 -756 72 2 polygon
-1.00 0 -1052 0 acsource
-1 1.00 -1052 64 -1052 72 -1000 72 3 polygon
-1.00 0 -1052 -60 gnd
-1 1.00 -936 -28 -936 0 2 polygon
-1 1.00 -956 0 -916 0 2 polygon
-(5V) {/Times-Roman cf} 2 16 0 1.00 -960 8 label
-1 1.00 -808 -28 -756 -28 2 polygon
-1 1.00 256 192 260 192 2 polygon
-1 1.00 224 192 220 192 2 polygon
-(5V) {/Times-Roman cf} 2 16 0 1.00 212 200 label
-1 1.00 456 88 456 120 2 polygon
-(RF IN) {/Times-Roman cf} 2 16 0 1.00 -1184 40 label
+-1.00 180 -564 24 opamp
+1.00 0 -696 136 resistor
+1.00 270 -760 -28 resistor
+1.00 0 -696 -92 resistor
+1.00 0 -696 -156 gnd
+1.00 180 -696 200 gnd
+1.00 0 416 24 nmos2
+1.00 270 -144 24 inductor
+1.00 0 128 104 diode
+1 1.00 64 24 352 24 2 polygon
+1 1.00 128 56 128 24 128 -8 3 polygon
+1 1.00 176 56 176 -8 2 polygon
+1 1.00 224 56 224 -8 2 polygon
+1 1.00 272 56 272 -8 2 polygon
+1 1.00 128 -104 128 -120 272 -120 272 -104 4 polygon
+1 1.00 224 -104 224 -120 2 polygon
+1 1.00 176 -104 176 -120 2 polygon
+1 1.00 128 152 128 168 272 168 272 152 4 polygon
+1 1.00 224 152 224 168 2 polygon
+1 1.00 176 152 176 168 2 polygon
+1 1.00 200 168 200 192 2 polygon
+1 1.00 184 192 216 192 2 polygon
+1 1.00 200 -120 200 -128 2 polygon
+1.00 0 200 -128 gnd
+1.00 0 416 -56 gnd
+1 1.00 416 -40 416 -56 2 polygon
+1 1.00 108 120 108 128 116 128 3 polygon
+1 1.00 148 120 148 112 144 112 3 polygon
+1 1.00 140 112 144 112 2 polygon
+1 1.00 108 120 112 120 2 polygon
+1 1.00 144 120 148 120 2 polygon
+1.00 0 176 104 diode
+1 1.00 156 120 156 128 164 128 3 polygon
+1 1.00 196 120 196 112 192 112 3 polygon
+1 1.00 188 112 192 112 2 polygon
+1 1.00 156 120 160 120 2 polygon
+1 1.00 192 120 196 120 2 polygon
+1.00 0 224 104 diode
+1 1.00 204 120 204 128 212 128 3 polygon
+1 1.00 244 120 244 112 240 112 3 polygon
+1 1.00 236 112 240 112 2 polygon
+1 1.00 204 120 208 120 2 polygon
+1 1.00 240 120 244 120 2 polygon
+1.00 0 272 104 diode
+1 1.00 252 120 252 128 260 128 3 polygon
+1 1.00 292 120 292 112 288 112 3 polygon
+1 1.00 284 112 288 112 2 polygon
+1 1.00 252 120 256 120 2 polygon
+1 1.00 288 120 292 120 2 polygon
+1.00 0 128 -56 diode
+1 1.00 108 -40 108 -32 116 -32 3 polygon
+1 1.00 148 -40 148 -48 144 -48 3 polygon
+1 1.00 140 -48 144 -48 2 polygon
+1 1.00 108 -40 112 -40 2 polygon
+1 1.00 144 -40 148 -40 2 polygon
+1.00 0 176 -56 diode
+1 1.00 156 -40 156 -32 164 -32 3 polygon
+1 1.00 196 -40 196 -48 192 -48 3 polygon
+1 1.00 188 -48 192 -48 2 polygon
+1 1.00 156 -40 160 -40 2 polygon
+1 1.00 192 -40 196 -40 2 polygon
+1.00 0 224 -56 diode
+1 1.00 204 -40 204 -32 212 -32 3 polygon
+1 1.00 244 -40 244 -48 240 -48 3 polygon
+1 1.00 236 -48 240 -48 2 polygon
+1 1.00 204 -40 208 -40 2 polygon
+1 1.00 240 -40 244 -40 2 polygon
+1.00 0 272 -56 diode
+1 1.00 252 -40 252 -32 260 -32 3 polygon
+1 1.00 292 -40 292 -48 288 -48 3 polygon
+1 1.00 284 -48 288 -48 2 polygon
+1 1.00 252 -40 256 -40 2 polygon
+1 1.00 288 -40 292 -40 2 polygon
+(TLV3501) {/Times-Roman cf} 2 16 0 1.00 -596 -68 label
+(NC7WZ16 x2) {/Times-Roman cf} 2 16 0 1.00 -496 156 label
+(10 nH) {/Times-Roman cf} 2 16 0 1.00 -188 -36 label
+(EPC8010) {/Times-Roman cf} 2 16 0 1.00 444 8 label
+(SMS3922 x8) {/Times-Roman cf} 2 16 0 1.00 -120 136 label
+1.00 0 128 24 dot
+1.00 0 176 24 dot
+1.00 0 224 24 dot
+1.00 0 272 24 dot
+1 1.00 -696 72 -888 72 2 polygon
+(W) {/Symbol cf} (50 ) {/Times-Roman cf} 4 16 0 1.00 -676 128 label
+(ref) {ss} (V) {/Times-Roman cf} 4 16 0 1.00 -728 -8 label
+1 1.00 -700 72 -644 72 2 polygon
+1.00 0 -940 0 acsource
+1 1.00 -940 64 -940 72 -888 72 3 polygon
+1.00 0 -940 -60 gnd
+1 1.00 -824 -28 -824 0 2 polygon
+1 1.00 -844 0 -804 0 2 polygon
+(5V) {/Times-Roman cf} 2 16 0 1.00 -848 8 label
+1 1.00 -696 -28 -644 -28 2 polygon
+1 1.00 216 192 220 192 2 polygon
+1 1.00 184 192 180 192 2 polygon
+(5V) {/Times-Roman cf} 2 16 0 1.00 172 200 label
+1 1.00 416 88 416 120 2 polygon
+(RF IN) {/Times-Roman cf} 2 16 0 1.00 -1072 40 label
+1.00 0 -320 80 buffer
+1.00 0 -320 -32 buffer
+1 1.00 -256 80 -240 80 -240 -32 -264 -32 4 polygon
+1 1.00 -368 80 -392 80 -392 -32 -368 -32 4 polygon
+1 1.00 -488 24 -392 24 2 polygon
+1.00 90 0 24 resistor
+1 1.00 -184 24 -240 24 2 polygon
+1 1.00 -80 24 -64 24 2 polygon
+(W) {/Symbol cf} (2 ) {/Times-Roman cf} 4 16 0 1.00 -36 -36 label
+(W) {/Symbol cf} (4 k) {/Times-Roman cf} 4 16 0 1.00 -676 -128 label
+(W) {/Symbol cf} (97.6 k) {/Times-Roman cf} 4 16 0 1.00 -860 -88 label
 pgsave restore showpage
 
 %%Trailer

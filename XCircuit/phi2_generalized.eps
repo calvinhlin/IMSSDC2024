@@ -1,10 +1,10 @@
 %!PS-Adobe-3.0 EPSF-3.0
-%%Title: C:/Users/linca/Desktop/SUPER Lab/IMSSDC2024/XCircuit/phi2.eps
+%%Title: C:/Users/linca/Desktop/SUPER Lab/IMSSDC2024/XCircuit/phi2_generalized.eps
 %%Creator: XCircuit v3.4 rev10
-%%CreationDate: Thu Aug 29 14:35:45 2024
+%%CreationDate: Thu Sep 05 17:12:38 2024
 %%Pages: 1
-%%BoundingBox: 68 68 537 306
-%%DocumentNeededResources: font Times-Roman font Symbol 
+%%BoundingBox: 68 68 385 306
+%%DocumentNeededResources: font Times-Roman 
 %%EndComments
 %%BeginProlog
 %
@@ -191,37 +191,6 @@ begingate
 endgate
 } def
 
-/source {
-% hidden
-begingate
-1 1.00 0 0 32 0.00 360.00 xcarc
-1 1.00 0 32 0 64 2 polygon
-1 1.00 0 -32 0 -64 2 polygon
-endgate
-} def
-
-/acsource {
-begingate
-1.00 0 0 0 source
-1 0.80 0 -48 0 48 -16 0 16 0 spline
-1.000 0.000 0.000 scb
-(s.p) {/Times-Roman cf} 2 9 0 1.00 0 64 pinlabel
-(s.m) {/Times-Roman cf} 2 13 0 1.00 0 -64 pinlabel
-endgate
-} def
-
-/buffer {
-% trivial
-begingate
-0 1.00 -32 -40 -32 40 40 0 3 polygon
-1 1.00 -32 0 -48 0 2 polygon
-1 1.00 40 0 64 0 2 polygon
-1.000 0.000 0.000 scb
-(Out) {/Times-Roman cf} 2 4 0 1.00 64 0 pinlabel
-(In) {/Times-Roman cf} 2 7 0 1.00 -48 0 pinlabel
-endgate
-} def
-
 /nmos {
 begingate
 1 1.00 0 -64 0 -28 -32 -28 -32 28 0 28 0 64 6 polygon
@@ -289,57 +258,41 @@ endgate
 
 %%EndSetup
 
-%%Page: 1 1
+%%Page: phi2.eps 1
 %%PageOrientation: Portrait
 /pgsave save def bop
 1.0000 inchscale
-2.6000 setlinewidth 640 476 translate
+2.6000 setlinewidth 480 476 translate
 
-1.00 0 -416 208 inductor
-1.00 0 -416 32 inductor
-1.00 0 -416 -96 capacitor
-1.00 0 -256 -96 acsource
-1.00 0 -176 -16 buffer
-1.00 0 -16 -16 nmos2
+1.00 0 -256 208 inductor
+1.00 0 -256 32 inductor
+1.00 0 -256 -96 capacitor
+1.00 0 -48 -16 nmos2
 1.00 0 80 -16 capacitor
-1.00 0 -416 -224 gnd
+1.00 0 -256 -224 gnd
 1.00 90 192 112 capacitor
 1.00 270 352 112 inductor
-1.00 180 448 -16 capacitor
-1.00 270 528 112 inductor
-1.00 0 672 -16 resistor
-1 1.00 -416 256 -416 288 -448 288 3 polygon
-1 1.00 -416 288 -384 288 2 polygon
-1 1.00 -416 -160 -416 -224 2 polygon
-1 1.00 -416 -176 672 -176 672 -80 3 polygon
-1 1.00 -256 -160 -256 -176 2 polygon
-1 1.00 -256 -32 -256 -16 -224 -16 3 polygon
-1 1.00 -416 144 -416 80 2 polygon
-1 1.00 128 112 -416 112 2 polygon
-1 1.00 -112 -16 -80 -16 2 polygon
-1 1.00 -16 112 -16 32 2 polygon
-1 1.00 -16 -80 -16 -176 2 polygon
+1.00 0 464 -16 resistor
+1 1.00 -256 256 -256 288 -288 288 3 polygon
+1 1.00 -256 288 -224 288 2 polygon
+1 1.00 -256 -160 -256 -224 2 polygon
+1 1.00 -256 144 -256 80 2 polygon
+1 1.00 -48 112 -48 32 2 polygon
+1 1.00 -48 -80 -48 -176 2 polygon
 1 1.00 80 48 80 112 2 polygon
 1 1.00 80 -80 80 -176 2 polygon
 1 1.00 256 112 304 112 2 polygon
-1 1.00 416 112 480 112 2 polygon
-1 1.00 448 48 448 112 2 polygon
-1 1.00 448 -80 448 -176 2 polygon
-1 1.00 592 112 672 112 672 48 3 polygon
-(12V) {/Times-Roman cf} 2 16 0 1.00 -448 304 label
-(140 nH) {/Times-Roman cf} 2 16 0 1.00 -384 192 label
-(37 nH) {/Times-Roman cf} 2 16 0 1.00 -384 16 label
-(68 pF) {/Times-Roman cf} 2 16 0 1.00 -400 -144 label
-(EPC8010) {/Times-Roman cf} 2 16 0 1.00 -192 -112 label
-1.000 0.000 0.000 scb
-1 1.00 -160 32 -128 32 -128 64 -96 64 -96 32 -64 32 6 polygon
-sce
-(90 pF) {/Times-Roman cf} 2 16 0 1.00 128 -32 label
-(4 nF) {/Times-Roman cf} 2 16 0 1.00 144 160 label
-(54 nH) {/Times-Roman cf} 2 16 0 1.00 304 144 label
-(133 nH) {/Times-Roman cf} 2 16 0 1.00 480 144 label
-(181 pF) {/Times-Roman cf} 2 16 0 1.00 464 -64 label
-(W) {/Symbol cf} (50 ) {/Times-Roman cf} 4 16 0 1.00 688 -32 label
+(f) {ss} (L) {/Times-Roman cf} 4 16 0 1.00 -224 192 label
+1 1.00 -256 112 128 112 2 polygon
+1 1.00 416 112 464 112 464 48 3 polygon
+1 1.00 464 -80 464 -176 -256 -176 3 polygon
+(MR) {ss} (L) {/Times-Roman cf} 4 16 0 1.00 -224 16 label
+(MR) {ss} (C) {/Times-Roman cf} 4 16 0 1.00 -224 -144 label
+(P) {ss} (C) {/Times-Roman cf} 4 16 0 1.00 96 -64 label
+(s) {ss} (C) {/Times-Roman cf} 4 16 0 1.00 176 160 label
+(s) {ss} (L) {/Times-Roman cf} 4 16 0 1.00 336 160 label
+(L) {ss} (R) {/Times-Roman cf} 4 16 0 1.00 496 -32 label
+(dd) {ss} (V) {/Times-Roman cf} 4 16 0 1.00 -288 304 label
 pgsave restore showpage
 
 %%Trailer
