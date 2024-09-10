@@ -1,9 +1,9 @@
 %!PS-Adobe-3.0 EPSF-3.0
 %%Title: C:/Users/linca/Desktop/SUPER Lab/IMSSDC2024/XCircuit/phi2.eps
 %%Creator: XCircuit v3.4 rev10
-%%CreationDate: Thu Aug 29 14:35:45 2024
+%%CreationDate: Mon Sep 09 11:58:14 2024
 %%Pages: 1
-%%BoundingBox: 68 68 537 306
+%%BoundingBox: 68 68 597 306
 %%DocumentNeededResources: font Times-Roman font Symbol 
 %%EndComments
 %%BeginProlog
@@ -286,6 +286,14 @@ begingate
 endgate
 } def
 
+/arrow {
+% trivial
+begingate
+1 0.80 0 -40 0 20 2 polygon
+1.00 0 0 40 arrowhead
+endgate
+} def
+
 
 %%EndSetup
 
@@ -303,15 +311,15 @@ endgate
 1.00 0 -16 -16 nmos2
 1.00 0 80 -16 capacitor
 1.00 0 -416 -224 gnd
-1.00 90 192 112 capacitor
-1.00 270 352 112 inductor
-1.00 180 448 -16 capacitor
-1.00 270 528 112 inductor
-1.00 0 672 -16 resistor
+1.00 90 352 112 capacitor
+1.00 270 512 112 inductor
+1.00 180 608 -16 capacitor
+1.00 270 688 112 inductor
+1.00 0 832 -16 resistor
 1 1.00 -416 256 -416 288 -448 288 3 polygon
 1 1.00 -416 288 -384 288 2 polygon
 1 1.00 -416 -160 -416 -224 2 polygon
-1 1.00 -416 -176 672 -176 672 -80 3 polygon
+1 1.00 -416 -176 832 -176 832 -80 3 polygon
 1 1.00 -256 -160 -256 -176 2 polygon
 1 1.00 -256 -32 -256 -16 -224 -16 3 polygon
 1 1.00 -416 144 -416 80 2 polygon
@@ -321,11 +329,11 @@ endgate
 1 1.00 -16 -80 -16 -176 2 polygon
 1 1.00 80 48 80 112 2 polygon
 1 1.00 80 -80 80 -176 2 polygon
-1 1.00 256 112 304 112 2 polygon
-1 1.00 416 112 480 112 2 polygon
-1 1.00 448 48 448 112 2 polygon
-1 1.00 448 -80 448 -176 2 polygon
-1 1.00 592 112 672 112 672 48 3 polygon
+1 1.00 416 112 464 112 2 polygon
+1 1.00 576 112 640 112 2 polygon
+1 1.00 608 48 608 112 2 polygon
+1 1.00 608 -80 608 -176 2 polygon
+1 1.00 752 112 832 112 832 48 3 polygon
 (12V) {/Times-Roman cf} 2 16 0 1.00 -448 304 label
 (140 nH) {/Times-Roman cf} 2 16 0 1.00 -384 192 label
 (37 nH) {/Times-Roman cf} 2 16 0 1.00 -384 16 label
@@ -334,12 +342,27 @@ endgate
 1.000 0.000 0.000 scb
 1 1.00 -160 32 -128 32 -128 64 -96 64 -96 32 -64 32 6 polygon
 sce
-(90 pF) {/Times-Roman cf} 2 16 0 1.00 128 -32 label
-(4 nF) {/Times-Roman cf} 2 16 0 1.00 144 160 label
-(54 nH) {/Times-Roman cf} 2 16 0 1.00 304 144 label
-(133 nH) {/Times-Roman cf} 2 16 0 1.00 480 144 label
-(181 pF) {/Times-Roman cf} 2 16 0 1.00 464 -64 label
-(W) {/Symbol cf} (50 ) {/Times-Roman cf} 4 16 0 1.00 688 -32 label
+(90 pF) {/Times-Roman cf} 2 16 0 1.00 96 -96 label
+(4 nF) {/Times-Roman cf} 2 16 0 1.00 304 160 label
+(54 nH) {/Times-Roman cf} 2 16 0 1.00 464 144 label
+(133 nH) {/Times-Roman cf} 2 16 0 1.00 640 144 label
+(181 pF) {/Times-Roman cf} 2 16 0 1.00 624 -64 label
+(W) {/Symbol cf} (50 ) {/Times-Roman cf} 4 16 0 1.00 848 -32 label
+1 1.00 288 112 128 112 2 polygon
+0.275 0.694 0.882 scb
+1.00 270 192 16 arrow
+0.098 0.420 0.141 scb
+1.00 90 336 16 arrow
+1 1.00 288 16 288 -80 2 polygon
+1 1.00 288 16 304 16 2 polygon
+0.275 0.694 0.882 scb
+1 1.00 240 16 240 -80 2 polygon
+1 1.00 240 16 224 16 2 polygon
+(Left) {ss} (Z) {/Times-Roman cf} 4 16 0 1.00 176 48 label
+0.753 0.000 0.000 scb
+(ds) {ss} (Z) {/Times-Roman cf} 4 16 0 1.00 64 128 label
+0.098 0.420 0.141 scb
+(Right) {ss} (Z) {/Times-Roman cf} 4 16 0 1.00 272 48 label
 pgsave restore showpage
 
 %%Trailer

@@ -25,13 +25,13 @@ C7 N007 0 {CM1}
 L11 N007 N008 {LL} Rser={ESR}
 I3 0 N006 AC 1
 R1 N008 0 50
-I4 0 NC_01 AC 1
+I4 0 DRAIN AC 1
 C3 N009 DRAIN 4n
 .param f=50Meg D=0.35 ESR=0.2
 .param LS1=17n
-.tran 0 {2000/f} {1996/f}
+* .tran 0 {2000/f} {1996/f}
 .lib EPCGaNLibrary.lib
-* .ac dec 100k 10MEG 200MEG
+.ac dec 100k 10MEG 200MEG
 .meas TRAN Pin AVG I(L1)*V(12V)
 .meas TRAN Pout AVG I(RL)*V(OUT)
 .meas TRAN PG AVG -V(G1)*I(V1)
