@@ -1,6 +1,6 @@
 LTspice 24.0.9 for Windows
 Circuit: * C:\Users\linca\Desktop\SUPER Lab\IMSSDC2024\SPICE\phi_2\phi_2_50MHz_EPC8010.asc
-Start Time: Mon Sep  9 10:33:21 2024
+Start Time: Tue Sep 10 14:15:21 2024
 Number of points per decade reduced from 100000 to 49171.
 solver = Normal
 Maximum thread count: 16
@@ -13,5 +13,5 @@ WARNING: Less than two connections to node n001.  This node is used by l8.
 Direct Newton iteration for .op point succeeded.
 
 
-Total elapsed time: 0.450 seconds.
+Total elapsed time: 0.465 seconds.
 
